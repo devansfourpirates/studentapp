@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>934763801460-j4hpelssai69s4gn0i3kq3r51t735b2g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.934763801460-j4hpelssai69s4gn0i3kq3r51t735b2g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADgiae1BD2upt_p-W1k2ssUcvfvqmW8to</string>
+	<key>GCM_SENDER_ID</key>
+	<string>934763801460</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fourpirates.TestFirebaseApp</string>
+	<key>PROJECT_ID</key>
+	<string>nwauction-3707a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nwauction-3707a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:934763801460:ios:46094b78ccca443a</string>
+	<key>DATABASE_URL</key>
+	<string>https://nwauction-3707a.firebaseio.com</string>
+</dict>
+</plist>
